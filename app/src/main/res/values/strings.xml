@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HT_well</string>
+    <string name="LocationInput">Type in your location</string>
+    <string name="locationInput">TextView</string>
+    <string name="SearchButton">Button</string>
+
+    <string name="search_button_text">Get info</string>
+    <string name="butti">Button</string>
+    <string name="WeatherReport">TextView</string>
+    <string name="entry_title">Entry title</string>
+    <string name="entry_details">Entry details</string>
+    <string name="add_btn">Add</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="WelcomeText">Welcome</string>
+    <string name="ToWeather">Weather</string>
+    <string name="ToLog">Log</string>
+    <string name="ToMenuNotes">Back to menu</string>
+    <string name="Delete">Delete</string>
+    <string name="Save">Save</string>
+    <string name="entry_title_edit">Entry Title</string>
+    <string name="entry_details_edit">Entry Details</string>
+    <string name="edit">Edit</string>
+    <string name="logicon">logicon</string>
+</resources>
